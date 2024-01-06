@@ -2,4 +2,4 @@
 <br>
 hello i am student
 <br>
-my college name-
+my college is oriental.
